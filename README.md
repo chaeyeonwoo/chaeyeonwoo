@@ -1,9 +1,19 @@
-### Hi there 👋
+# Hi YeonWoo 👋
+
+![js](	https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![js](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![js](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+![js](	https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=chaeyeonwoo&hide=contribs,prs&show_icons=true&theme=onedark)
+
 
 <!--
 **chaeyeonwoo/chaeyeonwoo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
+
+
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
